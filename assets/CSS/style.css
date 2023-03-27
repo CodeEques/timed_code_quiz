@@ -1,0 +1,62 @@
+
+body {
+    color: black;
+    font-family: arial;
+    box-sizing: border-box;
+    margin: 10;
+    padding: 10;
+
+} 
+
+/* Setting the high score timer styles */
+
+.highScoreTimer {
+    display: flex;
+    flex-direction: row; 
+
+}
+.highScoreTimer a {
+    margin: 0;
+    width: 502px;
+
+}
+
+.highScoreTimer p { 
+    margin: 0;
+    width: 501px;
+    text-align: right;
+
+}
+
+/* Set the Main styling parameters */
+
+.quiz {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+/* Set the Intro style */
+
+
+/* .intro h1 { 
+    align-items: center;
+
+}
+
+.intro p {
+    align-items: center;
+
+}
+
+.intro button {
+    background-color: deep purple;
+    align-items: center; */
+
+}
